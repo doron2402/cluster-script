@@ -1,0 +1,31 @@
+{
+  "name": "cluster-node",
+  "version": "1.0.0",
+  "description": "Node.js cluster simple script/tutorial",
+  "main": "cluster.js",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doron2402/cluster-script.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Cluster",
+    "master",
+    "slave",
+    "forking",
+    "server"
+  ],
+  "author": "Doron Segal <doron2402@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doron2402/cluster-script/issues"
+  },
+  "homepage": "https://github.com/doron2402/cluster-script#readme"
+}
